@@ -35,10 +35,10 @@ class DB
 	*/
 	public function DB()
 	{
-		$this->dbName = "tvolaric_zeljko_fahp";
-		$this->password = "medjugorje";
-		$this->server = "potassium.studio4web.com";
-		$this->user = "tvolaric";
+		$this->dbName = "database_name";
+		$this->password = "******";
+		$this->server = "server_name";
+		$this->user = "db_username";
 
 		try
 		{
